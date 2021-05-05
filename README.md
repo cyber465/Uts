@@ -28,3 +28,7 @@ dan klik pilih gambar untuk menambahkan gambar yang di inginkan
 dan gambar pun sudah terlihat dengan apa yang kita tuju dan ini akhirnya
 
 ![6](https://user-images.githubusercontent.com/37741274/117211398-21daae00-ae23-11eb-9e3b-7c62bdfd56b7.png)
+
+# link youtube
+
+https://youtu.be/03XJ_fGakHM
